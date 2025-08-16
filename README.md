@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Raj</h1>
-<h3 align="center">I am a passionate MERN Stack Devoloper</h3>
+<h3 align="center">💻 **Aspiring Software Engineer | Backend (Node.js) & MERN Stack Developer | Java (DSA)**</h3>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi914200&label=Profile%20views&color=0e75b6&style=flat" alt="abhi914200" /> </p>
-
-- 🔭 I’m currently working on [Learning Management System(LMS)](https://github.com/abhi914200/LMS)
-
-- 🌱 I’m currently learning **Frontend Devolopment(React,Redux) from Coding Ninja**
-
+ ### 🚀 About Me
+- 🎓 Pre-final year student at **BIT Sindri, IT'26**  
+- 🌱 Currently learning **Backend Development (Node.js, Express, MongoDB)**  
+- 📚 Practicing **Data Structures & Algorithms in Java**  
+- 👨‍💻 Interested in **Backend Engineering & Full Stack Projects**  
+- ⚡ Calm by nature, love building projects solo & exploring new tech  
 - 📫 How to reach me **abhimanyu.12g@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
