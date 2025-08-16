@@ -3,13 +3,20 @@
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi914200&label=Profile%20views&color=0e75b6&style=flat" alt="abhi914200" /> </p>
-### 🚀 About Me
+### 🚀 About Me  
+
 - 🎓 Pre-final year student at **BIT Sindri, IT'26**  
+
 - 🌱 Currently learning **Backend Development (Node.js, Express, MongoDB)**  
+
 - 📚 Practicing **Data Structures & Algorithms in Java**  
+
 - 👨‍💻 Interested in **Backend Engineering & Full Stack Projects**  
+
 - ⚡ Calm by nature, love building projects solo & exploring new tech  
-- 📫 How to reach me: **abhimanyu.12g@gmail.com**
+
+- 📫 How to reach me: **abhimanyu.12g@gmail.com**  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhimanyu-raj-611630313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu-raj-611630313" height="30" width="40" /></a>
