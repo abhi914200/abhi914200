@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Raj</h1>
 <h3 align="center">💻 **Aspiring Software Engineer | Backend (Node.js) & MERN Stack Developer | Java (DSA)**</h3>
  
-<img src="https://img.shields.io/endpoint?url=https://YOUR_RENDER_URL/ghcounter?username=abhi914200" alt="Profile Views">
+<img src="https://img.shields.io/endpoint?url=https://gh-profile-counter.onrender.com/ghcounter?username=abhi914200" alt="Profile Views">
 
 
 
