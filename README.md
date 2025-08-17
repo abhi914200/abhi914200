@@ -2,9 +2,9 @@
 <h3 align="center">💻 **Aspiring Software Engineer | Backend (Node.js) & MERN Stack Developer | Java (DSA)**</h3>
  
 
-/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi914200&label=Profile%20views&color=0e75b6&style=flat" alt="abhi914200" /> </p>*/
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abhi914200&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi914200&label=Profile%20views&color=0e75b6&style=flat" alt="abhi914200" /> </p>
+<p>![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abhi914200/abhi914200&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+</p>
 ### 🚀 About Me  
 
 - 🎓 Pre-final year student at **BIT Sindri, IT'26**  
