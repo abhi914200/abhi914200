@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Raj</h1>
 <h3 align="center">💻 **Aspiring Software Engineer | Backend (Node.js) & MERN Stack Developer | Java (DSA)**</h3>
  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhi914200&label=Profile%20views&color=0e75b6&style=flat" alt="abhi914200" />
+  <img src="https://img.shields.io/endpoint?url=https://gh-counter.onrender.com/ghcounter?username=abhi914200" alt="Profile Views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi914200&label=Profile%20views&color=0e75b6&style=flat" alt="abhi914200" /> </p>
-![Profile Views](https://img.shields.io/endpoint?url=https://gh-counter.onrender.com/ghcounter?username=abhi914200)
 
 
 
